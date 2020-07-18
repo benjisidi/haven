@@ -56,7 +56,37 @@ ROOM 3: is a vast chasm, with light spilling out of a door far in the distance. 
 
 ## Main Hall/Throne Room
 
+> Inserting the second gem into the slot, there's a *crack* and a shower of dust. The door slowly opens, descending into a slot in the floor.
 
+Beyond the door, the PCs see a long, high ceilinged hall lined with tall, thick, ornately carved columns. A colossal throne lies on a semi-circular dais at the far end of the room, fine gilded carvings faded with age. A massive skeleton, much larger than a human, sits on the throne wearing the remains of a fine purple robe. Behind it, a gigantic statue of death, twenty feet tall, stands holding an hourglass. The sand inside is trickling slowly through it, as if recently turned. As the party walk down the colonnade, they will see large, prestigious looking tombs of black marble lie between the columns. The skeleton looks up as they approach, and laughs in a deep, booming voice. To start with, he speaks an odd, raspy, clicky language none of the players understand. He will switch to whichever language he hears spoken first.
+
+> *Well done, my friends. Very impressive indeed. Tell me, have you come to claim the gifts to be granted? Mictlantecuhtli is generous to his servants.*
+
+The Emperor wants them to join the 'Naji, or *Chosen* as it means in their tongue. By allying themselves with Death, they will claim the *gifts to be granted* - Riches, Power, Knowledge, Conquest, Desire, Plenty, Protection and Rulership. All Death desires in return is their absolute fealty and the fall of Haven.
+
+#### Twister
+
+> *Last of the Ironclad, not knowing who or what you are. Mictlantecuhtli offers you knowledge - the power to rebuild your people once more, free of the mistakes of the past, bathed in his glory. Do not fall to the short-sightedness of your forebears. Join the glorious legion of the blessed*.
+
+#### Hieronymous
+
+> *apodsjf*
+
+#### Torvald
+
+> apojds
+
+#### Sci
+
+> pajsdpasd
+
+#### Soldan
+
+> *Lost son of Inalin, the strengt-*
+>
+> Interrupted by patron 
+>
+> 
 
 ## Aftermath
 
