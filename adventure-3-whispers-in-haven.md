@@ -91,7 +91,7 @@ If discovered, Kored will get out of sight, disguise himself as someone else, an
 
 ### Zesstra
 
-If discovered, Zesstra will misty step out of sight and run. Zesstra is a deadly hunter (Nerzugal’Zeres Extended Bestiary)
+If discovered, Zesstra will misty step out of sight and run. Zesstra is a deadly hunter (Nerzugal’s Extended Bestiary)
 
 - The house in Hearth will move and become more difficult to find
 - She will not return to Reinhardt
@@ -103,12 +103,21 @@ If discovered, Zesstra will misty step out of sight and run. Zesstra is a deadly
 
 Zesstra and Kored have stolen a boat and hidden it in a cave. There’s a basilisk guarding a box containing a large selection of documents, blueprints, manifests, book pages, etc. It also contains 300 gold
 
-Kored is wearing Mariner’s Splint Armour and a Dark Shard Amulet. He carries **Flux**, a +1 longsword that, when it scores a critical hit against an enemy, forces them to pass a dc 8 + att mod strength saving throw or be knocked prone.
+Kored is wearing **Mariner’s Splint Armour** and a **Dark Shard Amulet**. He carries **Flux**, a +1 longsword that, when it scores a critical hit against an enemy, forces them to pass a dc 8 + att mod strength saving throw or be knocked prone.
 
-Zesstra is carrying a shortbow of warning and wearing boots of false tracks
+Zesstra is carrying a **shortbow of warning** and wearing **boots of false tracks**
 
 
 
 There are two DC 14 (19) portable dart traps set up - dc 13 dex save, 2d6 damage
 
 Siren
+
+
+
+## Complications
+
+The players have entered the cave, and found Zesstra. She will try her best to escape, and will fight otherwise. When she gets low on health, she'll pull a necklace from her neck with a small round ruby in it. It will send a pulse through the air back towards Haven, notifying Kored of her fate. She then puts it in her mouth and it explodes, killing her.
+
+Kored
+
