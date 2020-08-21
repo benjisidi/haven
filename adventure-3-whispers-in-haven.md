@@ -119,5 +119,27 @@ Siren
 
 The players have entered the cave, and found Zesstra. She will try her best to escape, and will fight otherwise. When she gets low on health, she'll pull a necklace from her neck with a small round ruby in it. It will send a pulse through the air back towards Haven, notifying Kored of her fate. She then puts it in her mouth and it explodes, killing her.
 
-Kored
+In trying to escape, she will run to the end of the cave, where the players will find themselves facing a *very* thin ledge, with pitons periodically driven into the ice as handholds. Players can move along the ledge at half speed without danger, and at full speed by making a DC15 dex (acrobatics) check. If the players follow her, she will get to the other end and triumphantly draw her bow, aiming at the now-helpless players. Freya will shoot her at the last moment. If they don’t, she’ll start to climb over, see Freya on the other side, realise her situation is hopeless, and jump after breaking her necklace.
 
+Kored will lay low for the day, then try to leave the following night. 
+
+In the meantime, the players can find him by 
+
+1. Staking out an appropriate location in Jura
+2. Looking for him in Hearth
+
+He has an array of options for causing chaos on the docks. He’ll take the elevator while disguised as a sailor, or while invisible:
+
+- Appear as Warda []
+- Appear as Freya [disguise self]
+- Phantasm/Major Image some fire on a boat
+- *Actually* set fire to a boat
+- Invisibility to get in
+- Fear on everyone around
+
+If discovered:
+
+- Dissonant whispers as many people as possible away
+- Will try to fight PCs for killing his sister
+
+If the PCs miss all this, Freya will contact them saying she just saw Warda walk past her office (the other sailors don’t know he was killed) OR the magazine is on fire.
