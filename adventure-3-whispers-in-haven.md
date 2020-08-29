@@ -103,15 +103,13 @@ If discovered, Zesstra will misty step out of sight and run. Zesstra is a deadly
 
 Zesstra and Kored have stolen a boat and hidden it in a cave. There’s a basilisk guarding a box containing a large selection of documents, blueprints, manifests, book pages, etc. It also contains 300 gold
 
-Kored is wearing **Mariner’s Splint Armour** and a **Dark Shard Amulet**. He carries **Flux**, a +1 longsword that, when it scores a critical hit against an enemy, forces them to pass a dc 8 + att mod strength saving throw or be knocked prone.
+Kored is wearing **Mariner’s Splint Armour** and a **Dark Shard Amulet**. He carries **Flux**, a +1 rapier that, when it scores a critical hit against an enemy, forces them to pass a dc 8 + att mod strength saving throw or be disarmed.
 
 Zesstra is carrying a **shortbow of warning** and wearing **boots of false tracks**
 
 
 
 There are two DC 14 (19) portable dart traps set up - dc 13 dex save, 2d6 damage
-
-Siren
 
 
 
