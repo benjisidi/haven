@@ -147,7 +147,7 @@ A harried looking male high-elf steps out of a loading hatch in the stern.
 
 ## Setting out to sea
 
-The group are given a day or two in Haven to prepare supplies. They will need to supply the ship with food, and may want to stock up on things like climbing equipment, potions, cold weather gear etc. They will need to get their existing gear.
+The group are given a day or two in Haven to prepare supplies. They will need to supply the ship with food, and may want to stock up on things like climbing equipment, potions, cold weather gear etc. They will need to get their existing gear galvanized with coal at the Arctic Equipment Store.
 
 ## Clear Crossing
 

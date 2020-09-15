@@ -33,11 +33,27 @@ The players are given a ship and an order to explore the water-ways near the cit
 
 The PCs are told undead occasionally wander into the settlement, and that they seem to be coming from the north. There’s a fortress near a volcano up there that seems to be a concentration of the evil that can be found in the frozen waste. Before going there, they must complete a task to prove their worth, and retrieve the ancestral weapon of the champion of the elves. The weapon is **Righteous Dawn**, a greatsword that does + radiant damage with a bonus to undead. This is intended for Torvald, and along the way the rest of the party will find similar loot.
 
-Having obtained the weapon, the group must make the treacherous journey north to the volcano. Embedded in the rock is the **Polytopic Fortress** - a keep built by the Ironclad and bent into higher dimensions resulting in impossible geometry. After the destruction of the Ironclad, it is inhabited by **Terror**, who the PCs will have to fight to cleanse it. **THEME: HALO**
+Having obtained the weapon, the group must make the treacherous journey north to the volcano. Embedded in the rock is the **Polytopic Fortress** - a keep built by the Ironclad and bent into higher dimensions resulting in impossible geometry. After the destruction of the Ironclad, it is inhabited by **Rage**, who the PCs will have to fight to cleanse it. **THEME: HALO**
 
 Having cleared the fortress of demons/undead, and defeated Terror, the AI in command of the fortress will be freed (they have been attempting to communicate with the players and glitching out/cut off by Terror [Theme: Nox]). The AI will reveal one of the fragments is stored in the fortress, and while it was kept safe, it has been damaged by Terror attempting to consume it. The players are invited to use what remains to aid them in their fight, and each gain their first Ancestral Feat.
 
-# Ancestral Feats
+### Subsequent Fragments
+
+#### Underdark/Shadowfell [Sorrow]
+
+The party gain entry to the Underdark via Themisson’s Deep, make the treacherous journey to one of the Shadowfell Tendrils, and fight Terror in the demiplane, eventually cleansing it of its evil corruption.
+
+#### Orlorthon/Dreamworld [Terror]
+
+The party travel deep into the rainforests of Orlorthon. First, they must curry favour with the sultan of the Glittering Sands, so that he will speak for them to the Dragonborn king. Having trekked through the rainforests and swamps, they discover the fragment was stolen from the Orlorthon, and taken to the Nightmare State by Terror. The PCs must undergo a ritual to follow him there, and retrieve the fragment.
+
+#### Ghrun/Skyforge [Hatred]
+
+In Ghrun, the PCs discover the kingdom has collapsed into civil war. The mountain-dwelling Giants, Ogres and Trolls, long-time allies of the Orcs and Goblins of the plains, have turned on them, massacring towns in what seems to be frenzied rage. One of the fragments was sequestered at Skyforge, the mighty mountaintop keep of old. Hatred has taken residence there, and is causing the war. 
+
+The PCs must lead the outmuscled Orcs and Goblins in a siege of the keep, defeat Hatred and retrieve the fragment.
+
+## Ancestral Feats
 
 ### Last of the Honoriad: Vengeful Spirit
 
