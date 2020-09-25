@@ -1,6 +1,14 @@
 # Adventure 5: Corruption in the river
 
-This is a template for following the planning checklists in *“Return of the Lazy Dungeon Master”*. A short review of what has happened so far goes here.
+The party have just solved a plot whereby the SKRC were intending to steal technology from Haven in the form of blueprints, manifests and instructions. They killed two Whispers agents, Zesstra and Kored, but did not manage to question either. The Austenite Spire mole was apprehended, transpiring to be **Oppius Congalla**.
+
+In the few days afterwards, the party were invited to view Oppius’ trial, where they learned his motivation was a belief that Haven should be adopting a more expansionist policy to take advantage of its technological advancement. 
+
+The patrician then invited them to the Founder’s Apartments, where they met **Paelias** and **Grimnir**, the two surviving founders of Haven. Paelias, very old even for an elf, spoke of a time when northern Kvenland was a thick wood, inhabited by wood elves and drow the Underdark. He described the beginning of Death worship, how the cult slowly grew in the shadows of society, and how it rose up to destroy the ancestral home of the drow by burning it in a near-cataclysmic event.
+
+ Soldan sought the help of Half-Orc researcher Geirre Allirson, specialist of planes and dimensions, and learned that his newfound amulet was formed of *shadow stuff*, a material found in the Shadowfell, a demiplane that brushes up against the Material in certain parts of the underdark.
+
+The party all participated in boxing matches at The Broken Axe, to great success. They were then invited to take a ship, *Stormchaser*, and explore the waterways surrounding the city. Among the crew are Arathys, the businesslike first-mate and former crewmember of Freya’s, Drex, her happy-go-lucky brother, who you learned is a little slow, but has incredible talent as a navigator. Also aboard are Anders, a rather pompous attaché from the Research Group who specialises in palentology and horticulture, and Kolos, a researcher conducting projects in weather manipulation.
 
 ## Character Review
 
@@ -50,7 +58,7 @@ Human, high protector in Haven. Brought as a baby, son of an ice-mining speciali
 Items:
 
 - Better heavy armour
-- I think a belt of dwarvenkind would be awesome and on-brand
+- I think a belt of dwarvenkind would be awesome and on-brand -> “damaged” one without the +2 con in the fortress, which gets repaired in Themisson’s Deep
 - Have plans to give *Righteous Dawn* at some point.
 
 Truman likes roleplaying his character, and having them fit into the story well.
@@ -94,26 +102,50 @@ The PCs arrive at a spot where the ice forms a tunnel over the river. It looks l
 
 ### Scene 3:
 
-
+Strong perception checks will reveal a herd of ice-half-orgres (7) following the ship along the shore. At one point, the herd will attempt to ambush the ship. Nets are pulled from the water in front of and behind the vessel, trapping it in a short stretch of waterway where the the river narrows substantially. Goliaths will begin to throw rocks at the ship, and lay a great, heavy walkway from the shore in an attempt to board it.
 
 ## Secrets & Clues
 
 Write ~10 secrets/clues. **These are the most important feature after strong start**. Each should reveal something about the story/lore/NPCs. They should be spatially and temporally independent. Throw away secrets that don’t come up. Start fresh every time.
 
-1. There’s slivers of corruption in the water
-2. The OverWood was once the centre of a large wood-elf population in Haven
-3. 
-4. Clue
-5. Clue
-6. Clue
-7. Clue
-8. Clue
-9. Clue
-10. Clue
+1. There’s slivers of corruption in the water. The slivers have been getting more frequent over time, and started some months ago.
+2. The OverWood was once the centre of a large wood-elf population in Skara. The remains of their great capital can still be found to the north.
+3. This is Anders’ first “field outing”. He’s very interested in research but up until now has been too afraid to join expeditions and has contented himself in working at the Monstrous Miscellany. He joined this expedition because it sounded safer.
+4. Kolos’ clan come from far to the south, near the tip of Orlorthon. He had a disagreement with some of his clanmates and elected to leave. He doesn’t want to talk about it. He travelled up the coast, and, after being wrecked by an SKRC patrol, was picked up by a Haven merchant ship. 
+5. Arathys and Drex are long-serving crewmates of Freya’s. They bear the same Dragoon tattoo she does. After a good amount of action and an ill-commanded campaign to secure the Whitespire straits, Freya convinced her crew to defect and took *Fading Twilight* up north, in the hope of finding where so many of the mysterious merchant ships she saw went.
+6. Twister’s 1st war flashback
+7. Soldan has a vision of the Shadowfell: a huge labyrinth splays out at the foot of a mountain. High above, a series of great towers is built into its side. The fringes of the vision are played by some sort of dark fog, distinct from the darkness of the demiplane. As play progresses, these will continue, with the fog increasing in severity as Sorrow tightens their grip on Shadowfell.
+8. Creatures that live in the Fyrkatt surface are being driven south by something in the region of the volcano. An evil force appears to have been manifesting there. Goliath typically stay to mountainous regions, far like those on the northern coast.
+9. There’s a volcano in the Dragonspine mountains up north. It has been silent for a long while, and has recently started to billow smoke again
+10. 
 
 ## Fantastic Locations
 
 Start with an evocative name. It should bookmark the image of the location in your mind. Use size and age to make locations fantastic. Aim for 1-2/hr of play. For each location, write down three fantastic aspects. Tie locations into character backstories. 
+
+### Necrotic tree(ant)
+
+Deep in the water wood, a huge, dead, willow drapes over the river. The corruption in the water is pooling underneath it, and dark veins of it run up the trunk. It is a Sythe Tree (Fifth Edition Foes, 198) that has been consuming the corruption and those caught within it. It will attack the players if they investigate. Destroying it will reveal a wand of entangle.
+
+### Frozen Quarry
+
+Out on the runestone plateau, an old, abandoned quarry looms out of the mist. *Detect Magic* will reveal the stone here glows softly with raw magic. This is where the Inalin got the stone to build the rune circle to the south - the first of the gateways.
+
+The runestone plateau itself is infested with undead. The quarry is no exception - wights wander all over it, and two spectral trolls (Fifth Edition Foes, 234) patrol further in. 
+
+### Dokkufu’s Lair
+
+### Runestone circle
+
+
+
+### Shrine to Shar
+
+Herd of Yeti
+
+### Forgotten Tower
+
+Contains a Blue Arcanian (Critter Compendium pg 9)
 
 ## Notable NPCs
 
@@ -122,6 +154,10 @@ Focus on primary NPCs - main contacts, quest givers, notable villains, etc. Keep
 ## Monsters
 
 Read monster manuals for inspiration. Choose monsters that make sense for the location/story/situation. Improvise encounters. Spend time building boss fights that account for player abilities rather than negating them. Make a short list of potential encounters and locations. Find some generic maps for the locations.
+
+- Abomination from the Deep (Nerzugal pg 3)
+- Fanged sea serpent (5th edition foes, 201)
+- Spitting sea serpent (5th edition foes, 204)
 
 ## Rewards
 
