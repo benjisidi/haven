@@ -116,3 +116,9 @@ Read monster manuals for inspiration. Choose monsters that make sense for the lo
 
 What’s each character’s loose wish list? Refer to the character review for this. When one fits into the story, drop it into the game. Tie magic items in by using them as the focus for a quest or connection to secret/clue. Unrelated, more common magical items can provide fun situational tools for the PCs to use. 
 
+
+
+## Music
+
+https://youtu.be/KoTku7qMZOM
+https://youtu.be/V5Watai4qPM
