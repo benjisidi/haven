@@ -102,7 +102,7 @@ The PCs arrive at a spot where the ice forms a tunnel over the river. It looks l
 
 ### Scene 3:
 
-Strong perception checks will reveal a herd of ice-half-orgres (7) following the ship along the shore. At one point, the herd will attempt to ambush the ship. Nets are pulled from the water in front of and behind the vessel, trapping it in a short stretch of waterway where the the river narrows substantially. Goliaths will begin to throw rocks at the ship, and lay a great, heavy walkway from the shore in an attempt to board it.
+Strong perception checks will reveal a herd of ice-half-orgres (7) following the ship along the shore. At one point, the herd will attempt to ambush the ship. Nets are pulled from the water in front of and behind the vessel, trapping it in a short stretch of waterway where the the river narrows substantially. Goliaths will begin to throw rocks at the ship, and lay a great, heavy walkway from the shore in an attempt to board it. -> **Kron**
 
 ## Secrets & Clues
 
