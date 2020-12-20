@@ -64,7 +64,6 @@ Write ~10 secrets/clues. **These are the most important feature after strong sta
 10. Soldan has a vision of the Shadowfell: a huge labyrinth splays out at the foot of a mountain. High above, a series of great towers is built into its side. The fringes of the vision are played by some sort of dark fog, distinct from the darkness of the demiplane. As play progresses, these will continue, with the fog increasing in severity as Sorrow tightens their grip on Shadowfell.
 11. There’s a volcano in the Dragonspine mountains up north. It has been silent for a long while, and has recently started to billow smoke again
 12. The OverWood was once the centre of a large wood-elf population in Skara. The remains of their great capital can still be found to the north.
-13. 
 
 ## Fantastic Locations
 
@@ -72,17 +71,56 @@ Start with an evocative name. It should bookmark the image of the location in yo
 
 ### Artok’s Hut
 
+- 
+
 ### The Dancing Wolf
+
+- Handful of circular tables
+- Behind bar is floor-to-ceiling kegs
+- Fermented fish grog
 
 ### Chief’s Hall
 
+- Fire pit in between two long tables
+- Raised platform at one end with two large chairs
+- Full of citizens eating happily
+
 ### Kana’s Smithy
+
+- Smell of ash and metal
+- Clang of work
+- Orange glow
+- Straw on the floor
+- Forge
+- Anvil
+- Quenching Bucket
+- Wall is lined with weapons and shields
+- Not like a shop
 
 ### Fishing Wharf
 
+- Cut out to river height
+- Water wheel powers conveyor
+- Smells like fish
+- Busy
+
 ### Hunter’s Lodge
 
+- Very spartan
+- Pelts
+- Bunks
+- Spears/Bows
+- Skulls of hunt
+
 ### Abandoned shrine to Shar
+
+- Statue of long haired woman in armour, with spears crossed over her back
+- Moon and spear on pedestal
+- Black floor surrounded by purple circle
+
+### Shrine to Meili
+
+- Carving of a pair of boots on a plinth, with footprints all around
 
 ## Notable NPCs
 
@@ -90,23 +128,50 @@ Focus on primary NPCs - main contacts, quest givers, notable villains, etc. Keep
 
 ### Alfhild
 
+- Kana's Daughter
+- Hunter under Sigrid
+
 ### Eirik
+
+- King of the Overwood
+- Ragnar Lothbrok
 
 ### Artok
 
-### Ormus
+- Village Elder
+- George Abdougquengo/Floki
+
+### Orek
+
+- Master of Ceremonies
+- King's Advisor
+- Tyrael
 
 ### Sigrid
 
+- Head Huntress
+- Rita Vrataski (Iron Bitch)
+
 ### Kana
+
+- Runemaster
+- Created "Reality Check"
 
 ### Torsten
 
+- Captain of the Guard
+- Bjorn Ironside
+
 ### Leif
 
-### Gorm
+- Prince Consort
+- Runs day-to-day CC
+- Ron Weasely
 
 ### Thyra
+
+- Village Healer
+- Hermione
 
 ## Monsters
 
@@ -122,3 +187,13 @@ What’s each character’s loose wish list? Refer to the character review for t
 
 https://youtu.be/KoTku7qMZOM
 https://youtu.be/V5Watai4qPM
+
+
+
+
+
+## Games
+
+- Atlas stones
+- Archery/Knife throwing
+- "Assassins" - The Great Hunt
