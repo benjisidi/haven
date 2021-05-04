@@ -67,7 +67,9 @@ Crossing the ravine requires Acrobatics [13]. If more than one person steps on t
 
 The party are ambushed by a **Frost Giant**! A bolder rolls down the side of the ravine they are traversing and blocks the path. A huge figure extricates itself from where it was hidden in the side of the mountain and begins to attack...
 
+**Scene 6: White Dragon Monastery**
 
+A sect of white dragonborn monks worship an ancient white dragon. They have no need for food and do not age, and have been here since the armies of yore marched through the pass. They can give the players some lore and supplies if they need them. In particular they tell the players to seek the entrance in the volcano's heart and give them the significance of the puzzles they will find on the other side (the entrance to the polytopic fortress)
 
 ## Secrets & Clues
 
