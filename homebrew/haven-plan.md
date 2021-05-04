@@ -85,6 +85,8 @@ Your dormant battle A.I. is activated by the Fragment. It controls your armourâ€
 
 ### Power of the Inalin
 
+> Re-work this to be something to do with darkness? More on-brand.
+
 You feel suffused with the energy of your predecessors. You gain the following benefits:
 
 - Increase your Charisma or Constitution score by 1. Your maximum increases accordingly.
