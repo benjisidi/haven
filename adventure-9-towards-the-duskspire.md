@@ -51,11 +51,11 @@ Throughout all this, the ship lists and waves hit the deck. Listing = Dex save, 
 
 The players are padding across the ice when they see geysers. If Alfhild is with them, she will have warned them that this is the sign of a Wyrm. Their only hope is to get off the ice before it catches one of them. Thankfully, this Wyrm is dying having swum through corrupted ice, and its aim isn't very good. Dex save to avoid bite, luck check to avoid debris. Failed luck [1-5] results in con save and 3d6 necrotic damage from the corruption that hits. [6-10] results in 1d6 bludgeoning damage from falling ice. 
 
-The party reach a tree and after circling the Wyrm leaves. The tree turns out to be a Scythe tree, corrupted by the ice. It attacks the players.
+The party reach a tree and after circling the Wyrm leaves. The tree turns out to be a [Thornfoul](https://i.redd.it/047qzzos0gw61.jpg), corrupted by the ice. It attacks the players.
 
 ### Scene 3: The Frozen Capital
 
-A city in the trees lays splayed out a hundred feet beneath the player's feet. Preserved in the ice, the players can see winding paths, staircases sung into trees, great halls and huddles of smaller buildings connected by winding paths.
+A city in the trees lays splayed out a hundred feet beneath the player's feet. Preserved in the ice, the players can see winding paths, staircases sung into trees, great halls and huddles of smaller buildings connected by winding paths. The buildings have huge holes in them from where the Wyrm has swum through them
 
 **Scene 4: Altitude Adventure**
 
