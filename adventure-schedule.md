@@ -31,4 +31,16 @@
 - A giant city-eating creature is nearing Haven and the Guild of Arran need all the help they can get to deal with it
 - Mech racing: piloted edition
 - Cpt. Tanner's contact in Sylvana has gone dark.  There's a *lot* of pirate activity, so shipping has stopped for now. The players must make their way south by land and find out what's going on. [Hooks for Sci's hunter nemeses]
+- The woods to the south of Skara could be inhabited by [Elasmotherium](https://homebrewery.naturalcrit.com/share/B1r3D9J4NM). The players could be forced to travel south by land due to pirate activity.
+
+## Mainland details
+
+
+
+- The orc leaders use [Tuskaloth](https://imgur.com/RP6ZYNL) mounts
+- A hound of ill-omen is haunting Themisson’s Deep, and is a warning of the giant hellhound that lurks in the mine
+- Kvenlandians use broken-horned [Elasmotherium](https://homebrewery.naturalcrit.com/share/B1r3D9J4NM) as pack animals
+- Kvenland *feeblemind*s it’s magic users (using, ironically, a magical headband) before imprisoning them so that they cannot escape.
+
+- A [Summit Elemental](https://i.redd.it/sx15jonxjqv61.jpg) might be cool to have in the Cloud Anvil
 
