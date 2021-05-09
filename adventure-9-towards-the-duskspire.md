@@ -57,17 +57,17 @@ The party reach a tree and after circling the Wyrm leaves. The tree turns out to
 
 A city in the trees lays splayed out a hundred feet beneath the player's feet. Preserved in the ice, the players can see winding paths, staircases sung into trees, great halls and huddles of smaller buildings connected by winding paths. The buildings have huge holes in them from where the Wyrm has swum through them
 
-**Scene 4: Altitude Adventure**
+### **Scene 4: Altitude Adventure**
 
 As the players begin the climb, the weather improves but it gets colder and the air gets thinner. They must make Con [13] saves to avoid  exhaustion. They come to a ravine, bridged by a rickety construction of mammoth bones. Clouds below hide a small ledge the PCs will hit if they fall, taking damage but not dying (1hp, incapacitated). Perception [16] reveals the *thud*.
 
 Crossing the ravine requires Acrobatics [13]. If more than one person steps on the bridge, the ice at one end will begin to *crack*. 3 people on the bridge breaks it. 
 
-**Scene 5: Giants!**
+### **Scene 5: Giants!**
 
 The party are ambushed by a **Frost Giant**! A bolder rolls down the side of the ravine they are traversing and blocks the path. A huge figure extricates itself from where it was hidden in the side of the mountain and begins to attack...
 
-**Scene 6: White Dragon Monastery**
+### **Scene 6: White Dragon Monastery**
 
 A sect of white dragonborn monks worship an ancient white dragon. They have no need for food and do not age, and have been here since the armies of yore marched through the pass. They can give the players some lore and supplies if they need them. In particular they tell the players to seek the entrance in the volcano's heart and give them the significance of the puzzles they will find on the other side (the entrance to the polytopic fortress)
 
@@ -86,9 +86,14 @@ Write ~10 secrets/clues. **These are the most important feature after strong sta
 9. Clue
 10. Clue
 
-## Fantastic Locations
+## Night-time encounters
 
 Start with an evocative name. It should bookmark the image of the location in your mind. Use size and age to make locations fantastic. Aim for 1-2/hr of play. For each location, write down three fantastic aspects. Tie locations into character backstories. 
+
+- Northern Lights
+- Volcano Erupts
+- Wandering Polar Bear
+- 
 
 ## Notable NPCs
 
