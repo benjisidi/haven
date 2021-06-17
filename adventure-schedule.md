@@ -22,6 +22,7 @@
 
 ## Future Options
 
+- Khadrest's Memoirs style adventure - the party finds an old diary and by reminiscing get teleported to various moments in the author's life 
 - Hannah gets captured and the group must infiltrate Rebellion to save her. Torvald can also go after Scragga.
 - The Runestone Plateau contains a portal ring which will come in handy later
 - An expedition up the eastern coast urgently needed more supplies, and a Research Group party sent to restock them over Titan's Spine have lost contact [this](https://www.thearcanelibrary.com/collections/5th-level/products/the-snow-stalkers) adventure from Arcane Library. The party get to ride Mechs to the mountains!

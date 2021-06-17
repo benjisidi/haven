@@ -1,0 +1,75 @@
+{
+	"fileType": "dm-screen",
+	"siteVersion": "1.130.3",
+	"w": 3,
+	"h": 2,
+	"ctc": false,
+	"fs": false,
+	"lk": false,
+	"ps": [
+		{
+			"x": 0,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 1,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"t": 3,
+			"s": {
+				"x": "Passive Perception:\n\n- Sol: 14\n- Sci: 17\n- Torvald: 14\n- Twister: 14\n\nLanguages:\n\n- Sol: Elven, Dwarven, Draconic, Undercommon\n- Sci: Dwarven\n- Torvald: Dwarven\n- Twister: Elvish\n"
+			}
+		},
+		{
+			"x": 1,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 2,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 2,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 0,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "trapshazards.html",
+				"s": "DMG",
+				"u": "improvised%20damage_dmg"
+			}
+		}
+	],
+	"ex": [
+		{
+			"x": 0,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "tables.html",
+				"s": "DMG",
+				"u": "improvising%20damage%3b%20damage%20severity%20and%20level_dmg"
+			}
+		}
+	]
+}

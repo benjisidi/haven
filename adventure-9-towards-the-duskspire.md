@@ -36,7 +36,13 @@ Outline a short list of scenes that might occur in the story. Prepare only enoug
 
 ### Scene 1: The storm.
 
-Skill challenge! There are a number of things that need to be dealt with:
+Skill challenge! There are a number of things that need to be dealt with. DCs are
+
+12 - Excellent solution
+14 - Good solution
+16 - Adequate solution
+18 - Poor solution
+20 - Dubious solution/stretch
 
 - **Ice**: A part of the wall has collapsed and an enormous chunk of ice is causing the ship to list. It must be removed. [**Athletics**]
 - **Fire**: Lightning strikes the ship! The deck quickly catches and must be extinguished [**Creative**]
@@ -46,6 +52,10 @@ Skill challenge! There are a number of things that need to be dealt with:
 - **Jib**: The jib needs to be taken in, but the ropes are stuck! Knots need to be untied. [**Intelligence/Athletics**]
 
 Throughout all this, the ship lists and waves hit the deck. Listing = Dex save, Wave = Str save. Failure on the edge throws you into the river.
+
+##### In the river: consequences.
+
+The players should have tied themselves down if they're working on deck. They are towed in the freezing water until another player drags them out with two DC 16 strength checks. Normal drowning rules apply, and they suffer the cold water consequences afterwards.
 
 ### Scene 2: The Wyrm and The Tree
 
@@ -57,11 +67,19 @@ The party reach a tree and after circling the Wyrm leaves. The tree turns out to
 
 A city in the trees lays splayed out a hundred feet beneath the player's feet. Preserved in the ice, the players can see winding paths, staircases sung into trees, great halls and huddles of smaller buildings connected by winding paths. The buildings have huge holes in them from where the Wyrm has swum through them
 
+### Scene 3.5: Elephant Graveyard
+
+This scene provides an explanation as to where all the wildlife have gone. Coming upon some of the tributaries of the river, the players find the remains of a herd of mammoth. It appears they drank from the stream and slowly died afterwards. Their skeletons are cracked and pitted as if attacked by acid. 
+
 ### **Scene 4: Altitude Adventure**
 
 As the players begin the climb, the weather improves but it gets colder and the air gets thinner. They must make Con [13] saves to avoid  exhaustion. They come to a ravine, bridged by a rickety construction of mammoth bones. Clouds below hide a small ledge the PCs will hit if they fall, taking damage but not dying (1hp, incapacitated). Perception [16] reveals the *thud*.
 
 Crossing the ravine requires Acrobatics [13]. If more than one person steps on the bridge, the ice at one end will begin to *crack*. 3 people on the bridge breaks it. 
+
+### Scene 4.5: Tix
+
+Tix is an adventurer from the Glittering Sands. They are a Leonin hoping to join the Dark Scarab, the Sultan's 
 
 ### **Scene 5: Giants!**
 
@@ -75,8 +93,8 @@ A sect of white dragonborn monks worship an ancient white dragon. They have no n
 
 Write ~10 secrets/clues. **These are the most important feature after strong start**. Each should reveal something about the story/lore/NPCs. They should be spatially and temporally independent. Throw away secrets that don’t come up. Start fresh every time.
 
-1. Clue
-2. Clue
+1. Drex/Arathys quite fancy having a ship of their own. They're keen to go pirate hunting once all this is over, if the party are interested.
+2. Aspects lore
 3. Clue
 4. Clue
 5. Clue
@@ -93,7 +111,6 @@ Start with an evocative name. It should bookmark the image of the location in yo
 - Northern Lights
 - Volcano Erupts
 - Wandering Polar Bear
-- 
 
 ## Notable NPCs
 
@@ -106,4 +123,16 @@ Read monster manuals for inspiration. Choose monsters that make sense for the lo
 ## Rewards
 
 What’s each character’s loose wish list? Refer to the character review for this. When one fits into the story, drop it into the game. Tie magic items in by using them as the focus for a quest or connection to secret/clue. Unrelated, more common magical items can provide fun situational tools for the PCs to use. 
+
+
+
+
+
+## To Do
+
+- [x] Finish ship map
+- [x] Wyrm encounter battle map
+- [x] Think about infirmary scene
+- [x] Alfhild clues
+- [x] Aspects lore
 
