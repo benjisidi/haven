@@ -67,9 +67,61 @@ The party reach a tree and after circling the Wyrm leaves. The tree turns out to
 
 A city in the trees lays splayed out a hundred feet beneath the player's feet. Preserved in the ice, the players can see winding paths, staircases sung into trees, great halls and huddles of smaller buildings connected by winding paths. The buildings have huge holes in them from where the Wyrm has swum through them
 
-### Scene 3.5: Elephant Graveyard
+### Scene 3.5: Ice Climbers
 
-This scene provides an explanation as to where all the wildlife have gone. Coming upon some of the tributaries of the river, the players find the remains of a herd of mammoth. It appears they drank from the stream and slowly died afterwards. Their skeletons are cracked and pitted as if attacked by acid. 
+**Success:** Five Successes before Three Failures.
+
+**Failure.** With each failure, the PC loses their grip, grabs a loose stone, or didn't properly secure their piton. Larger slabs of stone and ice break free with each failure. The PC is hit by 2d10 damage, and the PC immediately behind them also takes half the same damage.
+
+**Complete Failure.** If the party fails three checks, their successive fumbling and mismanaging of the rock wall causes catastrophic failure. A slab of stone breaks free, dropping them from the wall and crashing atop them for [4/3/2d10]damage. If you want the challenge to be particularly dynamic, you could scale from Setback to Deadly based on how many successes they've accrued (and therefore how far up the wall they are).
+
+The catastrophic collapse lessens the wall's grade, allowing it to be ascended with rope & piton without further risk of failure. The skill challenge is over.
+
+Suggested Skills - DC15-ish
+
+- ***Athletics.*** Through sheer physical prowess, you forge ahead through a particularly challenging section of the climb and anchor a piton beyond to help your companions.
+- ***Acrobatics.*** Through a feat of flexibility and balance, you leverage footholds and handholds unreachable by your companions to forge ahead and anchor more pitons.
+- ***Nature.*** The PC searches for roots thick and hardy enough to temporarily support a climber's weight.
+- ***Survival/Perception/Investigation.*** Succeeding on this check does not count toward the skill challenge. The PC devotes their turn to searching for weak spots in the rock wall that might break free. If the PC succeeds this check, the next PC gets advantage on their check.
+
+**The Yeti.** After the party accrues three successes, a Yeti (abominable or otherwise) appears at the peak. If you want to stay in marching order, assign a number to each player and roll 1d4/1d6. The Yeti moves immediately after the designated player.
+
+The Yeti hurls icy boulders (using the statistics of its Claw attack) from the mountaintop. When the party nears, it uses its Chilling Gaze. If a party member becomes paralyzed, they slip from their rope and the party accrues one failure automatically.
+
+### Scene 3.5 alternative: Avalanche!
+
+#### Pt 1: Chase
+
+- the players start 100 feet away from the avalanche
+- Person in front goes first in initiative (avalanche is last)
+- You can dash 2+CON modifier times. Each additional dash causes a DC10 Constitution S/T at end of turn. Failure gives exhaustion.
+- This chase ends after 5 rounds (DM fiat). You cannot use Stealth to escape from the chase
+- The Avalanche acts last. It moves forward 40+Xd20 feet, where X is the number of rounds that has passed. Creatures proficient in survival know how far the avalanche will move next round. If the Avalanche tramples a creature, they take 4d10 bludgeoning damage and become restrained (escape DC10)
+- At the end of your turn, roll a D20 on the Complications table. This complication will affect **the next player** at the end of their turn. So you start your turn knowing the complication, and can your action(s) to give yourself a benefit to get past it.
+
+
+
+| 1d20  |      Type       |                        Complication                         |            example1            |
+| :---: | :-------------: | :---------------------------------------------------------: | :----------------------------: |
+|   1   | Poor visibility |             DC10 Con ST or blinded & half speed             |          Blowing snow          |
+|   2   |   Impediment    |             DC10 Athl/Acro or 10ft diff terrain             |    Tree crashes before you     |
+|   3   |     Barrier     |                DC15 Athl/Acro or fall prone                 |      Climb up Icy barrier      |
+|   4   |  Uneven Ground  |         DC15 Acro/DC10Survival or 15ft diff terrain         |          Slippery ice          |
+|   5   |    Obstacles    |        DC15 Acro/DC10 knowledge or 20ft diff terrain        |        Broken ice chunk        |
+|   6   |  Entanglement   |                  DC13 Dex ST or restrained                  |       Sink in deep snow        |
+|   7   |  Cramped space  |             DC15 Acrobatics or move half speed              |      Mini-ravine in snow       |
+|   8   |    Balancing    |            DC10 Dex ST or fall 3d4x5feet & prone            | Ice crumbles beneath your feet |
+|   9   |   Animal herd   | DC15 Dex ST/DC13Animal or prone and 4d10 bludgeoning damage |          1 Giant elk           |
+|  10   |     Hunter      |                   Take opportunity attack                   |         Wind elemental         |
+| 11-20 | No Complication |                              -                              |               -                |
+
+#### Pt 2: Skill challenge
+
+- Main Skills: Athletics, Acrobatics, Survival
+- Secondary: Perception, Insight can be used to grant advantage/disadvantage to another player.
+- Minor Skills: Nature, History can give two successes
+- As usual, if a player has a good argument, they can use any relevant skill. I can also think of a lot of spells and abilities that could give the players successes.
+- **Buried:**While buried, you take 1d10 bludgeoning and 1d10 cold damage each time a player makes a skill check. A Perception check must be made to find you and another check to free you from the snow.
 
 ### **Scene 4: Altitude Adventure**
 
@@ -87,7 +139,14 @@ The party are ambushed by a **Frost Giant**! A bolder rolls down the side of the
 
 ### **Scene 6: White Dragon Monastery**
 
-A sect of white dragonborn monks worship an ancient white dragon. They have no need for food and do not age, and have been here since the armies of yore marched through the pass. They can give the players some lore and supplies if they need them. In particular they tell the players to seek the entrance in the volcano's heart and give them the significance of the puzzles they will find on the other side (the entrance to the polytopic fortress)
+A sect of white dragonborn monks worship an ancient white dragon. They have no need for food and do not age, and have been here since the armies of yore marched through the pass. They can give the players some lore and supplies if they need them. In particular they tell the players to seek the entrance in the volcano's heart and give them the significance of the puzzles they will find on the other side (the entrance to the polytopic fortress). **Aishi** presides over the monastery and will give twister the pentagonal device and kaleidoscopic key.
+
+Other names:
+
+- **Adamander**
+- ***Soten***
+- **Eisho** 
+- **Kaizen** 
 
 ## Secrets & Clues
 
