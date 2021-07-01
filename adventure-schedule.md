@@ -12,10 +12,23 @@
   - Group arrives at the volcano. 
   - Group enters and traverses the Polytopic Fortress' defences
   - Group arrives at the fortress entrance
-- **Adventure 12: Terror's Trap**
+- **Adventure 12: Plague's Trap**
   - The fortress activates as Twister enters. It replays the Consortium's last stand.
   - At its center, the group find Primus, who has been waiting for them. He says he died that day, and is now Vault.
-  - Terror leaks out of vault and attacks the players as soon as they release the shard (or if they refuse). They must defeat him to claim their ancestral powers!
+  - Plague leaks out of Vault and attacks the players as soon as they release the shard (or if they refuse). They must defeat him to claim their ancestral powers!
+    - **Twister**: ANSEL is their companion AI.
+      - As a bonus action, Twister may roll an intelligence check vs the target's AC. On a success, ANSEL determines one of the target's modifiers, or information about their damage/condition resistances/vulnerabilities/immunities. (x proficiency/day)
+      - L2: ANSEL gains defensive/offensive capabilities
+    - **Soldan**: Shadowy Terror/Something Else
+      - Sol will feel his patron attempting to absorb the divine power through him. If he lets it, he will forgo an ancestral feat for a reward from his patron instead (shadowy terror). Otherwise, he'll get an Inalin-themed ancestral feat
+      - Shadowy Terror: At will, you can channel darkness into a room. Light sources dim, and shadows become sharper and more pronounced. Once per day, you may cause these shadows to become terrifying facsimiles of themselves, grotesque and malformed. You gain advantage on intimidation checks while this is active.
+      - Something else: You need to come up with a more magically-focused Inalin-themed alternative.
+      - Shadow L2: You gain 5 temp. hitpoints at the start of each turn when you are in dim light or darkness. You lose these when you enter bright light.
+    - **Torvald**:
+      - L2: You are bolstered by the strength of your ancestors. You may continue to act normally at 0hp until you fail a death saving throw.
+    - **Sci**: Hyperkeen senses
+      - Once per day, you may spend one minute attuning to your hyperkeen senses. For the following minute, you gain a +5 to perception and investigation checks.
+      - L2: Your senses allow you to pinpoint enemy weakpoints, giving you the ability to reroll sneak attack rolls
   - Primus wields a shining greataxe whose blade is made of radiant energy.
 - **Adventure 13: Home**
   - Having defeated Terror, the PCs return to CC/Haven and have some downtime

@@ -69,7 +69,7 @@ A city in the trees lays splayed out a hundred feet beneath the player's feet. P
 
 ### Scene 3.5: Ice Climbers
 
-**Success:** Five Successes before Three Failures.
+**Success:** Five Successes before Three Failures. S:II F: IV A:15
 
 **Failure.** With each failure, the PC loses their grip, grabs a loose stone, or didn't properly secure their piton. Larger slabs of stone and ice break free with each failure. The PC is hit by 2d10 damage, and the PC immediately behind them also takes half the same damage.
 
@@ -89,6 +89,8 @@ Suggested Skills - DC15-ish
 The Yeti hurls icy boulders (using the statistics of its Claw attack) from the mountaintop. When the party nears, it uses its Chilling Gaze. If a party member becomes paralyzed, they slip from their rope and the party accrues one failure automatically.
 
 ### Scene 3.5 alternative: Avalanche!
+
+**Torvald has blessed Sci, Sol and Twister for the first 2 rounds of avalanche**
 
 #### Pt 1: Chase
 
@@ -131,7 +133,7 @@ Crossing the ravine requires Acrobatics [13]. If more than one person steps on t
 
 ### Scene 4.5: Tix
 
-Tix is an adventurer from the Glittering Sands. They are a Leonin hoping to join the Dark Scarab, the Sultan's 
+Tix is an adventurer from the Glittering Sands. They are a Leonin hoping to join the Dark Scarab, the Sultan's elite unit.	
 
 ### **Scene 5: Giants!**
 
@@ -195,3 +197,6 @@ What’s each character’s loose wish list? Refer to the character review for t
 - [x] Alfhild clues
 - [x] Aspects lore
 
+## Session notes
+
+Sci still has university property that he has not returned.
