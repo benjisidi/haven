@@ -27,9 +27,11 @@
     - **Torvald**:
       - L2: You are bolstered by the strength of your ancestors. You may continue to act normally at 0hp until you fail a death saving throw.
     - **Sci**: Hyperkeen senses
-      - Once per day, you may spend one minute attuning to your hyperkeen senses. For the following minute, you gain a +5 to perception and investigation checks.
-      - L2: Your senses allow you to pinpoint enemy weakpoints, giving you the ability to reroll sneak attack rolls
-  - Primus wields a shining greataxe whose blade is made of radiant energy.
+      - Once per day, you may spend one minute attuning to your hyperkeen senses. For the following minute, you gain a +5 to perception and investigation checks. You can sense dangerous weather an hour before it arrives.
+      - L2: Your senses allow you to pinpoint enemy weakpoints, giving you the ability to reroll sneak attack rolls of 1s and 2s. You must use the new roll.
+    - **Persephone**: Gifted Sorcerer
+      - The tingling sensation through your nerves never *quite* left. Once / day cast *bane* w/o spell slot. 
+  - Primus wields a shining greataxe whose blade is made of radiant energy. Maybe [this](https://www.reddit.com/r/TheGriffonsSaddlebag/comments/fce5co/the_griffons_saddlebag_chromatic_obsidian/) as loot?
 - **Adventure 13: Home**
   - Having defeated Terror, the PCs return to CC/Haven and have some downtime
 
@@ -49,12 +51,11 @@
 
 ## Mainland details
 
-
-
 - The orc leaders use [Tuskaloth](https://imgur.com/RP6ZYNL) mounts
 - A hound of ill-omen is haunting Themisson’s Deep, and is a warning of the giant hellhound that lurks in the mine
 - Kvenlandians use broken-horned [Elasmotherium](https://homebrewery.naturalcrit.com/share/B1r3D9J4NM) as pack animals
 - Kvenland *feeblemind*s it’s magic users (using, ironically, a magical headband) before imprisoning them so that they cannot escape.
-
 - A [Summit Elemental](https://i.redd.it/sx15jonxjqv61.jpg) might be cool to have in the Cloud Anvil
-
+- Rick de la Stick should absolutely be an NPC (Knight/Paladin preaching *The Mindset*)
+- [Cube of anomalies](https://dr-eigenvalue.github.io/bestiary/creature/cube-of-anomalies) would make an awesome ironclad gadget
+- The aspect of fear could be a [Dread bringer](https://dr-eigenvalue.github.io/bestiary/creature/dread-bringer)
