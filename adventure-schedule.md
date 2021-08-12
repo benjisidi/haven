@@ -59,3 +59,4 @@
 - Rick de la Stick should absolutely be an NPC (Knight/Paladin preaching *The Mindset*)
 - [Cube of anomalies](https://dr-eigenvalue.github.io/bestiary/creature/cube-of-anomalies) would make an awesome ironclad gadget
 - The aspect of fear could be a [Dread bringer](https://dr-eigenvalue.github.io/bestiary/creature/dread-bringer)
+- Mark of Storm half-elf would make a really cool navigator.
