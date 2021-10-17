@@ -28,8 +28,8 @@ RAMKILN
 
 DEVELOPMENT
 
-- The town mayor is giving a speech, asking the inhabitants of the town to welcome the refugees in their time of need, and reassuring them that someone will be along soon to restore their village. He spots Clegg and invites him up on stage. ("Not to worry ladies and gents, we've got one of the best in the business. You tell em', Clegg")
-- The PCs are addressed by **Phinneas Ferb**, inventor extraordinaire. He points out his lab, on top of a nearby hill, and offers to sell the party a **Enhanced Potion of Growth** for 320gp.
+- The town mayor (**Eamon Rewis**) is giving a speech, asking the inhabitants of the town to welcome the refugees in their time of need, and reassuring them that someone will be along soon to restore their village. He spots Clegg and invites him up on stage. ("Not to worry ladies and gents, we've got one of the best in the business. You tell em', Clegg")
+- The PCs are addressed by **Phinneas Ferb**, inventor extraordinaire. He points out his lab, on top of a nearby hill, and offers to sell the party a **Enhanced Potion of Growth** for 320gp. (Other inventory: Potion of Hair Growth (40gp), Chromatic Skin (30gp), Climing (140gp), Gaseous Form (300gp))
 
 DRAMATIC QUESTION
 
@@ -37,7 +37,7 @@ DRAMATIC QUESTION
 
 TRANSITION
 
-- The PCs will next head to the village of VILLAGE B to confront the ogres.
+- The PCs will next head to the village of Loggerhead to confront the ogres.
 
 > SIDEBAR
 >
@@ -45,17 +45,17 @@ TRANSITION
 
 ## Scene 2: Disgruntled Ogres
 
-VILLAGE B
-*VILLAGE B's most notable feature is the two large sawmills on its southern side. The buildings here are all log walls and thatched roofs, in contrast to the stone and slate of Ramkiln.*
+Loggerhead
+*Loggerhead's most notable feature is the two large sawmills on its eastern side. The buildings here are all log walls and thatched roofs, in contrast to the stone and slate of Ramkiln.*
 
 DEVELOPMENT
 
-- Two ogres are standing guard on the road as the PCs approach, **Wallop** and **Dollop**. They will be confrontational, and attack if threatened. If persuaded or bribed, they'll bring the PCs to the tribe's elder, **Churn**.
+- Two ogres are standing guard on the road as the PCs approach, **Wallop** and **Butcher**. They will be confrontational, and attack if threatened. If persuaded or bribed, they'll bring the PCs to the tribe's elder, **Churn**.
 - Churn explains that their old home was cursed, and so they've taken the village as their new home. He'll refuse to elaborate, simply shaking his head and repeating "cursed".
 
 DRAMATIC QUESTION
 
-- Will the players attack the village, or try to help?
+- Will the players attack thxe village, or try to help?
 
 TRANSITION
 
@@ -65,7 +65,7 @@ TRANSITION
 >
 > Add extra useful information here if necessary
 
-## Scene 3: Ant-hive
+## Scene 3: Ogre Village
 
 AREA X
 *The ogre village is unrecognizable. Bits and pieces of the palisade wall litter the ground, making it difficult terrain. The houses have been torn down and built into a single huge structure up against the side of the hill. Large and small ants scurry everywhere*
@@ -86,7 +86,7 @@ TRANSITION
 >
 > Add extra useful information here if necessary
 
-## Scene X: Try this format
+## Scene 4: Ant Hive
 
 AREA X
 *short description for players*
@@ -112,3 +112,22 @@ TRANSITION
 - [Ant colony post](https://www.reddit.com/r/DnDBehindTheScreen/comments/a4vmmm/giant_ant_colony_a_dungeon_for_any_level/)
 - [Ant swarm image](https://www.deviantart.com/michaeljaecks/art/Mythic-Ant-Swarm-543318993)
 - 
+
+### Enhanced Potion of Growth
+
+- Doubles in size
+- Advantage on Str checks + Saves
+- +2 Str up to 22
+- 1d6 extra damage
+- 10 minutes
+
+### Orange Healing Potion
+
+- 3d4 + 3hp
+- +5ft movement 1 min
+
+### Red Healing Potion
+
+- 2d4 + 2hp
+- 10 temp hp
+- 1pt exhaustion after 1 min

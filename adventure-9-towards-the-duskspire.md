@@ -103,7 +103,7 @@ The Yeti hurls icy boulders (using the statistics of its Claw attack) from the m
 
 
 
-| 1d20  |      Type       |                        Complication                         |            example1            |
+| 1d20  |      Type       |                        Complication                         |          Description           |
 | :---: | :-------------: | :---------------------------------------------------------: | :----------------------------: |
 |   1   | Poor visibility |             DC10 Con ST or blinded & half speed             |          Blowing snow          |
 |   2   |   Impediment    |             DC10 Athl/Acro or 10ft diff terrain             |    Tree crashes before you     |
@@ -139,9 +139,23 @@ Tix is an adventurer from the Glittering Sands. They are a Leonin hoping to join
 
 The party are ambushed by a **Frost Giant**! A bolder rolls down the side of the ravine they are traversing and blocks the path. A huge figure extricates itself from where it was hidden in the side of the mountain and begins to attack...
 
-### **Scene 6: White Dragon Monastery**
+**New Session: Recap**
 
-A sect of white dragonborn monks worship an ancient white dragon. They have no need for food and do not age, and have been here since the armies of yore marched through the pass. They can give the players some lore and supplies if they need them. In particular they tell the players to seek the entrance in the volcano's heart and give them the significance of the puzzles they will find on the other side (the entrance to the polytopic fortress). **Aishi** presides over the monastery and will give twister the pentagonal device and kaleidoscopic key.
+> ​	**Scene 6: White Dragon Monastery**
+
+A sect of white dragonborn monks worship an ancient white dragon. They have no need for food and do not age, and have been here since the armies of yore marched through the pass. They can give the players some lore and supplies if they need them. In particular they tell the players to seek the entrance in the volcano's heart and give them the significance of the puzzles they will find on the other side (the entrance to the polytopic fortress). **Ashira** presides over the monastery and will give twister the pentagonal device and kaleidoscopic key.
+
+**Torvald's Dream**
+
+Torvald finds himself on a misty, cobbled street in Aleph, in the early hours of the morning. A hunched, robed figure hobbles towards him leaning on a stick. Contrasting with his posture, a greatsword is strapped across his back. A scarred, one-eyed face looks up at Torvald from beneath his hood.
+
+> "Who am I, my son?
+>
+> "And who are *you*"?
+>
+> Warrior, yes, but when did my wisdom become the idea that you can solve everything with the edge of a spade? *Smacks Torvald with walking stick*
+>
+> You are a protector, granted, but you can protect your comrades from a great deal more than violence, young man. You can shield them from sorrow, from hatred, even from themselves. You can save best them from violence by preventing violence from occurring at all. To do this you must grow, you must learn. How can you expect to protect others if you have not yet mastered yourself? Observe. Listen. Think. Reach for your weapon only as a last resort. But when you do, do so decisively.
 
 Other names:
 
@@ -149,6 +163,20 @@ Other names:
 - ***Soten***
 - **Eisho** 
 - **Kaizen** 
+
+### Scene 7: Tar Toads
+
+Nearing Mayhem's Peak, the group come across a herd of [Tar Toads](https://i.redd.it/hifsaik6lnn71.jpg). They are happily hopping about on the magma and will spark the tar if the group spook them too much.
+
+### Scene 8: Fire crabs
+
+Encounter
+
+### Scene 9: Lava tunnel/Rickety staircase [mood: frantic]
+
+Descending further into the volcano, the group reach a tunnel with a sharp, uneven obsidian-shard floor. Obsidian stalagmites They're going to have to proceed carefully to get through here unscathed. Examining this in advance (DC14) shows that at some point in the past, lava has dripped into this passageway (foreboding). Further investigation of the chamber reveals a hidden stairwell. 
+
+If the players proceed into the tunnel, the smaller spines crunch underfoot as they enter. The larger ones will cut them. The tunnel winds further and further down into the volcano, towards the centre. As they progress, o
 
 ## Secrets & Clues
 
