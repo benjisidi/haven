@@ -6,7 +6,9 @@
 
 ## The Portal Room
 
-> poijsadfpoij
+> *Isaac, why did you give us grief?*
+>
+> *You do not age, you do not get sick, you do not eat or sleep. Without all this, you would continue to exist, forever, and the lives of mortals around you would soon appear mere fleeting fancies. Grief gives mortal lives meaning. It is what separates you from them.*
 
 ## Fighting Plague
 
@@ -55,7 +57,10 @@
 
 ## The Fortress Collapses
 
-Woo crazy
+- Fortress is shattered, must jump between pieces to get to exit
+- Tsar's speech echoes throughout the cavern
+- Golems fighting season Ent
+- Dark Scarab
 
 ## Return to the Monastery
 
