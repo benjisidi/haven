@@ -19,18 +19,32 @@
     - **Twister**: ANSEL is their companion AI.
       - As a bonus action, Twister may roll an intelligence check vs the target's AC. On a success, ANSEL determines one of the target's modifiers, or information about their damage/condition resistances/vulnerabilities/immunities. (x proficiency/day)
       - L2: ANSEL gains defensive/offensive capabilities
-    - **Soldan**: Shadowy Terror/Something Else
+      
+    - **Soldan**: Shadowy Terror/Balance in the Pattern
+      
       - Sol will feel his patron attempting to absorb the divine power through him. If he lets it, he will forgo an ancestral feat for a reward from his patron instead (shadowy terror). Otherwise, he'll get an Inalin-themed ancestral feat
       - Shadowy Terror: At will, you can channel darkness into a room. Light sources dim, and shadows become sharper and more pronounced. Once per day, you may cause these shadows to become terrifying facsimiles of themselves, grotesque and malformed. You gain advantage on intimidation checks while this is active.
-      - Something else: You need to come up with a more magically-focused Inalin-themed alternative.
+      - The Middle Way: Once per day, when you or a creature within 30ft of you makes an attack roll, ability check or saving throw, you may replace it with a 10. You cannot use this feat if you are incapacitated.
       - Shadow L2: You gain 5 temp. hitpoints at the start of each turn when you are in dim light or darkness. You lose these when you enter bright light.
-    - **Torvald**:
+      
+    - **Torvald**: Might of the Honouriad
+    
+      - Bastion of Courage: As an action, choose a creature you can see within 30ft. That creature gains one of the following benefits:
+    
+        - The creature may immediately perform an action
+        - That creature may move up to its speed (max. 30ft) without provoking opportunity attacks
+    
+        Once you have used this feature, you may not do so again until you have finished a long rest.
+    
       - L2: You are bolstered by the strength of your ancestors. You may continue to act normally at 0hp until you fail a death saving throw.
+    
     - **Sci**: Hyperkeen senses
-      - Once per day, you may spend one minute attuning to your hyperkeen senses. For the following minute, you gain a +5 to perception and investigation checks. You can sense dangerous weather an hour before it arrives.
+      
+      - Once per day, you may spend one minute attuning to your hyperkeen senses. For the following minute, you gain +5 to Perception and Investigation checks. You can sense dangerous weather an hour before it arrives.
       - L2: Your senses allow you to pinpoint enemy weakpoints, giving you the ability to reroll sneak attack rolls of 1s and 2s. You must use the new roll.
+      
     - **Persephone**: Gifted Sorcerer
-      - The tingling sensation through your nerves never _quite_ left. Once / day cast _bane_ w/o spell slot.
+      - The tingling sensation through your nerves never _quite_ left. Once / day cast _bane_ w/o spell slot. You learn the *Sapping Sting* cantrip
   - Primus wields a shining greataxe whose blade is made of radiant energy. Maybe [this](https://www.reddit.com/r/TheGriffonsSaddlebag/comments/fce5co/the_griffons_saddlebag_chromatic_obsidian/) as loot?
 - **Adventure 13: Home**
   - Having defeated Terror, the PCs return to CC/Haven and have some downtime
@@ -48,6 +62,7 @@
 - Mech racing: piloted edition
 - Cpt. Tanner's contact in Sylvana has gone dark. There's a _lot_ of pirate activity, so shipping has stopped for now. The players must make their way south by land and find out what's going on. [Hooks for Sci's hunter nemeses]
 - The woods to the south of Skara could be inhabited by [Elasmotherium](https://homebrewery.naturalcrit.com/share/B1r3D9J4NM). The players could be forced to travel south by land due to pirate activity.
+- The Inalin were a group of wood elves + drow whose primary objective was bringing balance to the pattern by any means necessary. Contrast the Honouriad whose primary purpose was defeating the Prime Evil
 
 ## Mainland details
 
