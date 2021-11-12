@@ -84,3 +84,5 @@
 - [Garen](https://www.reddit.com/r/monsteraday/comments/oq7tbl/garen_the_ever_vigilant_crusader_against_magic/) as the witch hunter captain
 - [Speculo](https://www.reddit.com/r/DnD/comments/pvr5uv/oc_speculo_a_blankcanvas_creature_that_learns_as/) would make an awesome encounter
 - Ensnaring Strike would be a fun feature for an enemy
+- Balance of Harmony on an Inalin shrine
+
