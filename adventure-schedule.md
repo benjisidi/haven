@@ -77,10 +77,10 @@
 - Mark of Storm half-elf would make a really cool navigator.
 - An [Oni](https://www.reddit.com/r/dndnext/comments/dmluvf/the_oni_is_awesome/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) could be terrorizing a town
 - A cult summoning a [boneclaw](<https://www.dandwiki.com/wiki/Boneclaw_(5e_Creature)>)
-- An [Oni](https://www.reddit.com/r/dndnext/comments/dmluvf/the_oni_is_awesome/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) could be terrorizing a town
 - A cult summoning a [boneclaw](<https://www.dandwiki.com/wiki/Boneclaw_(5e_Creature)>)
 - [Bodak](https://forgottenrealms.fandom.com/wiki/Bodak)s in the underdark
 - [Sorrowsworn](https://forgottenrealms.fandom.com/wiki/Sorrowsworn) are perfect for the next arc
 - [The Eagle of the Sun](https://www.reddit.com/r/monsteraday/comments/psm8z2/when_it_approaches_the_eagle_of_the_sun_cr_12/) would make a great aspect (aspect of light?). The [Bat of Below](https://www.reddit.com/r/monsteraday/comments/n90y4n/the_avatar_of_the_underground_wilderness_the_bat/) lives in the underdark/shadowfell (or maybe Themisson's Deep?)
 - [Garen](https://www.reddit.com/r/monsteraday/comments/oq7tbl/garen_the_ever_vigilant_crusader_against_magic/) as the witch hunter captain
 - [Speculo](https://www.reddit.com/r/DnD/comments/pvr5uv/oc_speculo_a_blankcanvas_creature_that_learns_as/) would make an awesome encounter
+- Ensnaring Strike would be a fun feature for an enemy
