@@ -14,7 +14,13 @@
 - Steal some fruit, and get inside the town [10pts]
 - Defend yourself! [12pts]
 
-Gidoro's    
+7+12+9
+
+Spell level = (X-2)/2
+
+10 pts max
+
+Gidoro's 
 
 silk
 
