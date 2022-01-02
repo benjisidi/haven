@@ -21,6 +21,12 @@
 
 
 
+- Cassandra is a turncoat - her children are being threatened by Sone, and she wants out
+- Given the opportunity she will side with the players and tell them who Sone is and where he can be found
+- 
+
+
+
 ## Session Notes
 
 - Failed to deceive Cassandra
@@ -29,8 +35,28 @@
 - Toska got threatened
 - Murderized everyone [One archer, one guard and one pirate escaped]
 - Imports are **Finngari's** (botany/alchemy supplies) and **McCowan's** (Mech components/materials)
+- NEXT SESSION
+- Burn down warehouse, hide in another one
+- Head to McCowan's shop and kill everyone in the secret room
+  - Herman tells them he's a renowned alchemist and they kidnapped him and was made to make them sparkglass
+  - They interrogate the shopfront clerk, **Sandin**, who tells them Cassandra is coming for them
+  - They stay at Hannah's and send her to stay on stormchaser, and get orens and Toska to stay at Hannah's
+  - They head to the cave and are ambushed
+- NEXT SESSION
+- Cassandra told the party about her kids and where Bren McCowan lived
+- Party goes to his mansion and sneaks inside
+- Kills McCowan/Shine, loots place
+  - Shipping lane maps
+  - 1000GP
+  - Incriminating accounts and notes from sparkglass business
+  - Sapphire golem shard
 
-## Night at the Museum
+### Import companies
+
+- **Finngari's**: Botany/Alchemy
+- **McCowan's**: Mech components
+- **Rosegold**: Jewellery, art, etc
+- **Ravenpoint**: Foodstuffs and material (cotton, linen, chou, etc)
 
 
 

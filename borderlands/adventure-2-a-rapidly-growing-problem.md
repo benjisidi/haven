@@ -111,7 +111,6 @@ TRANSITION
 
 - [Ant colony post](https://www.reddit.com/r/DnDBehindTheScreen/comments/a4vmmm/giant_ant_colony_a_dungeon_for_any_level/)
 - [Ant swarm image](https://www.deviantart.com/michaeljaecks/art/Mythic-Ant-Swarm-543318993)
-- 
 
 ### Enhanced Potion of Growth
 
@@ -131,3 +130,19 @@ TRANSITION
 - 2d4 + 2hp
 - 10 temp hp
 - 1pt exhaustion after 1 min
+
+### Blue  Healing Potion
+
+- 10gp refund for results
+- 4d4 + 4hp
+- Smurf for a week
+
+### Chromatic Skin
+
+- Resistance to whatever colour
+- [IVORY YELLOW]
+
+### Potion of hair growth
+
+- Long black hair for 24 hours
+
