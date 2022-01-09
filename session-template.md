@@ -14,7 +14,11 @@ What do they want? What plays into their backgrounds? What do the players of the
 
 ### Torvald [ Truman ]
 
+### Persephone [ Ed ]
+
 ## Strong Start
+
+**Put the "last time..." script here**
 
 What’s happening? Your start should be rooted in the world. What’s the point? Your start should hook the players into the next stage of the adventure. Where’s the action? Start the players in the middle of an interesting event. If in doubt, start with combat.
 
@@ -58,4 +62,8 @@ Read monster manuals for inspiration. Choose monsters that make sense for the lo
 ## Rewards
 
 What’s each character’s loose wish list? Refer to the character review for this. When one fits into the story, drop it into the game. Tie magic items in by using them as the focus for a quest or connection to secret/clue. Unrelated, more common magical items can provide fun situational tools for the PCs to use. 
+
+## Session Notes
+
+Place anything you need to keep track of and a small summary of events here
 

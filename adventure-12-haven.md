@@ -23,7 +23,6 @@
 
 - Cassandra is a turncoat - her children are being threatened by Sone, and she wants out
 - Given the opportunity she will side with the players and tell them who Sone is and where he can be found
-- 
 
 
 
