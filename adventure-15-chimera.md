@@ -53,27 +53,33 @@ DEVELOPMENT
 - Skara Section
   - Rust Monster
   - Sabertooth Tiger
+  - Winter Wolf
   - Basilisk
 - Glittering Sands section:
   - Giant Vulture
   - Hippogriff
-  - Oni [Nightmare of Ashihama]
 - Ghrun Section
   - Giant Elk
   - Triceratops
   - Owlbear
   - Tuskaloth [Use as mounts](https://imgur.com/RP6ZYNL)
 - Kvenland Section
-  - [Elasmotherum](https://homebrewery.naturalcrit.com/share/B1r3D9J4NM)
+  - [Elasmotherum](https://homehttps://homebrewery.naturalcrit.com/share/B1r3D9J4NMbrewery.naturalcrit.com/share/B1r3D9J4NM)
   - Clay Golem
   - Nycaloth [Winged gargoyle demon]
+  - Oni [Nightmare of Ashihama]
 
 
 DRAMATIC QUESTION
 
 - Will the players discover/overcome the Chimera in the basement?
 
-### Scene 2:
+### Scene 2: Sewage Treatment Plant
+
+- Sewage Water wheel
+- Conveyor with steam
+- Flaming grate
+- 
 
 ### Scene 3:
 
@@ -148,3 +154,13 @@ What’s each character’s loose wish list? Refer to the character review for t
 
 Place anything you need to keep track of and a small summary of events here
 
+- Cian: "Watch me roll a nat 20 first time" -> does it
+- Group ask Snarrsonn in Radiant Hall whether he's seen anything, hasn't.
+- Sol talks to Northern Lights and tells them he can't really do circus any more, feels like he should be using his powers for good
+- Sci finds an Elasmotherum hair in Twister's office, and the word "Hubris" on the broken blackboard.
+- The group go to see Epimetheus and ask him to identify the hair, he tells them what it is and that the only similar animal is in the Monstrous Miscellany.
+- The group investigate the Miscellany, and on their way out see that the curator's name matches Twister's note
+- They find more Elasmotherum hair in the office, and Breyney's diary.
+- Sci finds the secret bookshelf door down to the cellar, where there's gore and the remains of some of the chimeral creatures, along with a hole leading to the sewers
+- The first chimera the group find is the dragonfly ostritch, which leads them deeper into the sewers where they're attacked by the beetle elk, and eventually the crustacean wasp and turtle gator, which almost kills Torvold.
+- The group retreat having heard something skittering (the mantis) in the west side of the map 

@@ -151,3 +151,9 @@ What’s each character’s loose wish list? Refer to the character review for t
 > *It is almost complete. Just need a few more specimens, and then to make it move. Soon, my lovely, you will have form .The ideal creature. The final shape. Perfect.*
 
 > *Perfect. Perfect. Perfect. Perfect. Perfect. Perfect. Perfe...*
+
+
+
+- Twister wants to know who destroyed her office
+-  Sol wants Mithril Half-Plate and needs to get some mithril from the runestone plateau
+- Send Sci poisons and plants
