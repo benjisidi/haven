@@ -85,4 +85,5 @@
 - Ensnaring Strike would be a fun feature for an enemy
 - Balance of Harmony on an Inalin shrine
 - Story Prompt: *Reason and Virtue*
+- Triton have dragon turtles
 
