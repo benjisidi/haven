@@ -56,13 +56,14 @@
 - The Runestone Plateau contains a portal ring which will come in handy later
 - An expedition up the eastern coast urgently needed more supplies, and a Research Group party sent to restock them over Titan's Spine have lost contact [this](https://www.thearcanelibrary.com/collections/5th-level/products/the-snow-stalkers) adventure from Arcane Library. The party get to ride Mechs to the mountains!
 - The party are out on the sea and a ghost ship pulls up along side them. [This](https://www.thearcanelibrary.com/collections/1st-level/products/ghostlight) adventure from Arcane library
-- A drug cartel has sprung up in Haven. Sol's kindly old friend was hurt, and an Inquisitor has been killed. Artem contacts Sci for help
+- [x] A drug cartel has sprung up in Haven. Sol's kindly old friend was hurt, and an Inquisitor has been killed. Artem contacts Sci for help
 - One of Twister's colleagues requires supplies from an abandoned mine/rare animal for some research. Offers them part of the results as a reward
 - A giant city-eating creature is nearing Haven and the Guild of Arran need all the help they can get to deal with it
 - Mech racing: piloted edition
 - Cpt. Tanner's contact in Sylvana has gone dark. There's a _lot_ of pirate activity, so shipping has stopped for now. The players must make their way south by land and find out what's going on. [Hooks for Sci's hunter nemeses]
 - The woods to the south of Skara could be inhabited by [Elasmotherium](https://homebrewery.naturalcrit.com/share/B1r3D9J4NM). The players could be forced to travel south by land due to pirate activity.
 - The Inalin were a group of wood elves + drow whose primary objective was bringing balance to the pattern by any means necessary. Contrast the Honouriad whose primary purpose was defeating the Prime Evil
+- Fully grown Hubert in the Borderlands
 
 ## Mainland details
 
