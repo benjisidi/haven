@@ -65,7 +65,7 @@ DEVELOPMENT
   - Tuskaloth [Use as mounts](https://imgur.com/RP6ZYNL)
 - Kvenland Section
   - [Elasmotherum](https://homehttps://homebrewery.naturalcrit.com/share/B1r3D9J4NMbrewery.naturalcrit.com/share/B1r3D9J4NM)
-  - Clay Golem
+    - Clay Golemx
   - Nycaloth [Winged gargoyle demon]
   - Oni [Nightmare of Ashihama]
 
@@ -164,3 +164,7 @@ Place anything you need to keep track of and a small summary of events here
 - Sci finds the secret bookshelf door down to the cellar, where there's gore and the remains of some of the chimeral creatures, along with a hole leading to the sewers
 - The first chimera the group find is the dragonfly ostritch, which leads them deeper into the sewers where they're attacked by the beetle elk, and eventually the crustacean wasp and turtle gator, which almost kills Torvold.
 - The group retreat having heard something skittering (the mantis) in the west side of the map 
+
+## Session Notes 2.0
+
+- Ed fails to roll a nat 20 on demand
