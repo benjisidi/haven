@@ -6,7 +6,7 @@
 - Mark Zuckerberg - a Lizardfolk shaman building an army of yuan-ti hellbent on controlling the minds of all that inhabit this world. Runs the *house of a thousand whispers*, a nexus for all communication magic that Ramk Buckerzerg manages
 - Elon Musk - The artificer *Tusk*, our BBEG
 - Shrek - Literally just an angry scottish ogre in a swamp
-- Batman, a washed up gun-for-hire named *Spruce Bane/Proust Spain/Loose Chain/Moose Pain*
+- [Lego] Batman, a washed up gun-for-hire named *Spruce Bane/Proust Spain/Loose Chain/Moose Pain*
   - Also been hired by DFV, keeps running into the players and messing up their plans
 - Dom Mazzetti
 - Rambo
@@ -14,7 +14,7 @@
 - Steven Crowder
 - Diamond Hands (DFV/DeFuVa)
 - The Real x was the friends we made along the way
-- Apple branded cursed armour that prevents you from using non-apple items
+- Apple [Pear] branded cursed armour that prevents you from using non-apple items
 
 ## Scene One
 

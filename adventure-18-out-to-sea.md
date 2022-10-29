@@ -74,11 +74,11 @@ DEVELOPMENT
 
 DRAMATIC QUESTION
 
-- Will	the	characters	help	Darby?	
+- Will the characters help Darby?	
 
 TRANSITION
 
-When the characters go through door beneath  the rear deck, they descend a 15-foot, winding  staircase. Go to The Wailing Banshee. 
+When the characters go through door beneath  the rear deck, they descend a 15-foot, winding  staircase. Go to The Wailing Banshee.
 
 > DARBY GRIZZLEGUT
 >
@@ -119,7 +119,38 @@ Read monster manuals for inspiration. Choose monsters that make sense for the lo
 
 What’s each character’s loose wish list? Refer to the character review for this. When one fits into the story, drop it into the game. Tie magic items in by using them as the focus for a quest or connection to secret/clue. Unrelated, more common magical items can provide fun situational tools for the PCs to use. 
 
+## ToDo
+
+- Tovald has several dreams
+  - He insists on engaging a pirate ship and gets everyone killed
+  - He is a traitor and hands his crew to the pirates in return for freedom
+  - His crew mutinies and leaves him for dead
+- The Ghostlight is being hijacked by a fiend in service of the Damodred demons, in order to send drowned sailors to the hells instead of where they belong. They are also trying to see if they can produce more ghost ships as a means of invading other parts of Fale and extending their control
+- When defeated, Torvald gets to meet one of his crew and learn the truth -> wis save, fail = many versions/a corrupted memory
+
 ## Session Notes
 
-Place anything you need to keep track of and a small summary of events here
+Place anything you need to keep track of and a small summary of events here 
 
+> *You stand on the deck of a ship under full sail. It is a hive of activity, sailors running to and fro, their shouts lost in the wind that periodically whips the deck with cold spray. Over your shoulder, you can see a set of red sails not far behind.  The larger ship looms towards you, and the dull boom of cannon echoes off the icy cliffs to your left. You turn and stalk back down the ship to the helm, where a thick set dwarf stands at the wheel.*
+>
+> - On my mark, bring her about, Thror.
+>
+> *Thror looks back at you, confused*
+>
+> - But sir, we can outrun them. We're faster close to the wind
+> - Just ***do it!***
+>
+> *you bark, already making your way belowdecks, calling "Mr Steply!"  as you reach the bottom of the staircase. A grizzled one-eyed sailor in a tricorn stands to attention*
+>
+> - Action stations Mr Steply! It's time to send this scum to the bottom of the sea
+> - *He raises an eyebrow.* We're mighty outgunned, high protector.
+> - The gods are with us, Steply. We shall prevail.
+> - Alright lads you heard the man. Battle stations, run out the cannon. Step to it now!
+>
+> You run back up to the helm and with a hand signal instruct Thror to turn the ship. Putting all his weight on the wheel, he turns it as far as it'll go and the ship suddenly lurches into a tight arc. Moments later, there's a cacophany of  the planks beneath your feet shudder as your broadside fires beneath you.
+
+- Faction codebook [whispers] for sol -> has been reading on the ship
+- Torvald finds *spearhead* - 3rd rate kvenlandian ship of the line
+- Skragga controls fortune and is attacking the southerly coast of the glittering sand
+- Torvald is enamoured by lorelei
